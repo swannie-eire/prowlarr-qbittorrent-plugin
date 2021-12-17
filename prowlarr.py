@@ -181,4 +181,4 @@ class prowlarr(object):
 
 if __name__ == "__main__":
     prowlarr_se = prowlarr()
-    prowlarr_se.search("star.trek.discovery s04e05 H264-CAKES", "tv")
+    prowlarr_se.search("ubuntu")
