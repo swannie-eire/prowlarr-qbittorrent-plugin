@@ -1,6 +1,6 @@
 **qBittorrent** comes with a few search plugins. Although these are enough for most users, if you wish to add more search engines, you can download **Prowlarr** configure the **prowlarr qBittorrent plugin** (essentially, set the API key).
 
-**[prowlarr](https://github.com/prowlarr/prowlarr)** is a server program that provides support for more than 400 torrent sites (public and private). You may download the plugin at [this address](https://raw.githubusercontent.com/qbittorrent/search-plugins/master/nova3/engines/prowlarr.py).
+**[prowlarr](https://github.com/prowlarr/prowlarr)** is a server program that provides support for more than 400 torrent sites (public and private). You may download the plugin at [this address](https://raw.githubusercontent.com/swannie-eire/prowlarr-qbittorrent-plugin/main/prowlarr.py).
 
 ### Disable the prowlarr plugin
 By default, the prowlarr plugin is enabled in qBittorrent. If you want to disable it, follow these steps:
