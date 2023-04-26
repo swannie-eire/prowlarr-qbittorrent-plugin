@@ -21,9 +21,9 @@ from helpers import download_file
 CONFIG_FILE = 'prowlarr.json'
 CONFIG_PATH = os.path.join(os.path.dirname(os.path.realpath(__file__)), CONFIG_FILE)
 CONFIG_DATA = {
-    'api_key': 'YOUR_API_KEY_HERE',  # prowlarr api
+    'api_key': bf303402c33a472aa850f5c51bd582ab,  # prowlarr api
     'tracker_first': False,          # (False/True) add tracker name to beginning of search result
-    'url': 'http://127.0.0.1:9696',  # prowlarr url
+    'url': http://192.168.2.14:9696,  # prowlarr url
 }
 
 
