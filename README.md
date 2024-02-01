@@ -1,5 +1,5 @@
 ### THIS REPO IS NO LONGER MAINTAINED. 
-### For a supported plugin please either use Jackett.
+### For a supported plugin please use Jackett.
 
 
 
